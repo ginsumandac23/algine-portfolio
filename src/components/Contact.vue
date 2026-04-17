@@ -43,6 +43,9 @@
 
         if(result.success) {
             isLoading.value = false;
+            fullName.value = "";
+            email.value = "";
+            message.value = "";
             notyf.success("Message Sent!");
         }
 
