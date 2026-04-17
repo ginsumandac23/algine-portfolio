@@ -1,0 +1,31 @@
+[
+    {  
+        "id": 1,
+        "title": "Full-Stack E-Commerce Platform (MEVN Stack)",
+        "description": "A full-stack e-commerce web app built with the MEVN stack. Includes user authentication, product listings, cart functionality, and order processing with a connected REST API.",
+        "image": "/images/project-img1.jpg",
+        "link": "http://zuitt-bootcamp-prod-599-9451-sumandac.s3-website.us-east-1.amazonaws.com/"
+    },
+    {
+        "id": 2,
+        "title": "E-commerce API Documentation",
+        "description": "A RESTful E-commerce API built using Node.js, Express, and MongoDB. It handles user authentication, product management, and order processing, and is fully documented using Postman.",
+        "image": "/images/project-img5.jpg",
+        "link": "https://documenter.getpostman.com/view/52229876/2sBXierE2K"
+    },
+    {
+        "id": 3,
+        "title": "WordPress Portfolio (Elementor)",
+        "description": "A responsive portfolio website built using WordPress and Elementor, focusing on clean layout, user-friendly design, and customizable sections.",
+        "image": "/images/project-img4.jpg",
+        "link": "https://alginesumandacwp.ct.ws/"
+    },
+    {
+        "id": 4,
+        "title": "Responsive Web Design using HTML, CSS, JavaScript & Bootstrap",
+        "description": "A fully responsive website built using HTML, CSS, JavaScript, and Bootstrap, showcasing clean UI design, mobile-first development, and cross-device compatibility. This project highlights my ability to create user-friendly layouts that adapt seamlessly across desktop, tablet, and mobile screens.",
+        "image": "/images/project-img8.jpg",
+        "link": "javascript:;"
+    }
+
+]
