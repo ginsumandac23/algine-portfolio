@@ -25,7 +25,15 @@
         "title": "Responsive Web Design using HTML, CSS, JavaScript & Bootstrap",
         "description": "A fully responsive website built using HTML, CSS, JavaScript, and Bootstrap, showcasing clean UI design, mobile-first development, and cross-device compatibility. This project highlights my ability to create user-friendly layouts that adapt seamlessly across desktop, tablet, and mobile screens.",
         "image": "/images/project-img8.jpg",
-        "link": "javascript:;"
+        "link": "https://ginsumandac23.github.io/MarciMertzger/"
+    },
+
+    {
+      "id": 5,
+      "title": "React To-Do List App (Context API & React Router DOM)",
+      "description": "Built a responsive to-do list application using React, Context API, and React Router DOM. Implemented global state management without prop drilling and structured routing for clean navigation. Focused on component reusability, state efficiency, and scalable front-end architecture.",
+      "image": "/images/to-do-task.jpg",
+      "link": "https://task-app-frontend-eight.vercel.app/"
     }
 
 ]
