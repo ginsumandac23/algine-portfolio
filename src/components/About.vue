@@ -19,7 +19,7 @@
 							<p>I design and develop modern web applications with a strong focus on clarity, performance, and user experience. From crafting responsive interfaces to building reliable backend logic, I aim to create solutions that are both visually refined and functionally solid.</p>
 
 							<div class="banner-btns d-flex flex-wrap gap-3 text-center">
-								<a href="javascript:;" class="banner-btn-odd p-2 text-white">Resume</a>
+								<a href="https://drive.google.com/file/d/1jmlHLciyLMDgfzgVeCA25kFpbGHOnYo0/view?usp=sharing" target="_blank" class="banner-btn-odd p-2 text-white">Resume</a>
 								<a href="#contact" class="banner-btn-even p-2 text-white">Contact Me</a>
 							</div>
 					</div>
